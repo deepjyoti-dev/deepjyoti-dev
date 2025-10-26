@@ -7,7 +7,7 @@
 🌱 Currently exploring: **Android apps**, **IoT**, and **ERP systems**.  
 📈 **Goal:** Build 20+ apps in 2025.  
 💬 **Ask me about:** Backend, APIs, Python, Java, Flask, Android.  
-📫 **Connect:** [LinkedIn](https://www.linkedin.com/in/deepjyotidas1) | [Portfolio](https://ubiquitous-sherbet-d9d874.netlify.app/)
+📫 **Connect:** [LinkedIn](https://www.linkedin.com/in/deepjyotidas1) 
 
 ---
 
@@ -113,7 +113,7 @@ Android Studio · Firebase · IoT · Machine Learning · REST APIs
 ## 🌐 Latest Work
 
 🧩 **Founder of Zyntrio** – Building the future of smart apps and digital solutions.  
-⚙️ Exploring **AI/ML projects for agribusiness automation** (MBA in Agri-Business).  
+⚙️ Exploring **AI/ML projects for agribusiness automation**.  
 💻 Working on an **ERP & Android productivity suite**.
 
 ---
