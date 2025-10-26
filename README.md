@@ -28,6 +28,23 @@ ERP Demo
  (planned)	Self-hosted ERP inspired by Odoo	Python, Angular, PostgreSQL
 📊 GitHub Stats
 
+🧠 Skills
+💻 Programming Languages
+<p align="left"> <img src="https://skillicons.dev/icons?i=python,java,javascript,cpp,html,css" /> </p>
+⚙️ Backend Development
+<p align="left"> <img src="https://skillicons.dev/icons?i=flask,django,nodejs,express,mysql,mongodb,sqlite,postman" /> </p> - RESTful API Design & Integration - Authentication, CRUD Operations, and MVC Architecture - Database Design (MySQL, MongoDB, PostgreSQL)
+🎨 Frontend Development
+<p align="left"> <img src="https://skillicons.dev/icons?i=angular,react,bootstrap,tailwind,html,css" /> </p> - Responsive UI/UX Design - Single-Page Applications (SPAs) - Component-Based Architecture
+📱 Mobile & Cross-Platform Development
+<p align="left"> <img src="https://skillicons.dev/icons?i=androidstudio,qt,flutter,firebase" /> </p> - Android App Development (Java, Firebase) - Qt 15 Software Development (C++/Python GUI Apps) - Cross-Platform App Development
+🤖 AI, ML & IoT
+<p align="left"> <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,raspberrypi,arduino" /> </p> - Machine Learning & AI Automation - IoT Systems Integration (Sensors, Data Logging) - Smart Solutions for Agribusiness
+🧰 Tools & Platforms
+<p align="left"> <img src="https://skillicons.dev/icons?i=git,github,vscode,linux,docker" /> </p> - Version Control & Collaboration - CI/CD and Deployment - Linux System Administration
+🌐 Soft Skills
+
+💡 Problem Solving  📈 Project Management  🧩 Creativity
+🤝 Team Collaboration  ⚙️ Adaptability  🚀 Continuous Learning
 
 🌐 Latest Work
 
