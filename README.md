@@ -105,7 +105,7 @@ Android Studio · Firebase · IoT · Machine Learning · REST APIs
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=deepjyoti-dev&show_icons=true&theme=tokyonight" height="160px" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=deepjyotidas1&theme=tokyonight" height="160px" />
+ 
 </p>
 
 ---
