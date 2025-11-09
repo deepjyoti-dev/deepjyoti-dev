@@ -1,6 +1,6 @@
 ## 👋 Hi there, I'm **Deepjyoti Das**
 
-**Full-Stack Developer | Android Developer | AI/ML & IoT Enthusiast | Founder of [Zyntrio],[Ocelot Trading] and [NeuroLearnNexus](https://ubiquitous-sherbet-d9d874.netlify.app/)**  
+**Full-Stack Developer | Android Developer | AI/ML & IoT Enthusiast | Founder of [Zyntrio](https://ubiquitous-sherbet-d9d874.netlify.app/),[Ocelot Trading](https://ubiquitous-sherbet-d9d874.netlify.app/) and [NeuroLearnNexus](https://ubiquitous-sherbet-d9d874.netlify.app/)**  
 
 🚀 Building innovative apps, automation tools, and smart business solutions.  
 💡 Passionate about creating scalable software that blends technology with real-world impact.  
