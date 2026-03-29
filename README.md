@@ -22,7 +22,7 @@
 - 🚀 Founder of **Deepjyoti Das Technologies**  
 - 💻 Full-Stack Developer (Python | Java | Angular)  
 - 🤖 Building **AI Tools, ERP Systems & Android Apps**  
-- 📱 Mission: Build **20+ real-world apps (2025)**  
+- 📱 Mission: Build **200+ real-world apps (2025)**  
 - 🎓 Educator (Maths | Physics | Computer Science)  
 
 🎯 **Actively Looking For:**  
