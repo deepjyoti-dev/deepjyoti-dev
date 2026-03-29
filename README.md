@@ -1,126 +1,100 @@
-## 👋 Hi there, I'm **Deepjyoti Das**
-
-**Full-Stack Developer | Android Developer | AI/ML & IoT Enthusiast | Founder of [Zyntrio](https://ubiquitous-sherbet-d9d874.netlify.app/),[Ocelot Trading](https://ubiquitous-sherbet-d9d874.netlify.app/) and [NeuroLearnNexus](https://ubiquitous-sherbet-d9d874.netlify.app/)**  
-
-🚀 Building innovative apps, automation tools, and smart business solutions.  
-💡 Passionate about creating scalable software that blends technology with real-world impact.  
-🌱 Currently exploring: **Android apps**, **IoT**, and **ERP systems**.  
-📈 **Goal:** Build 20+ apps in 2025.  
-💬 **Ask me about:** Backend, APIs, Python, Java, Flask, Android.  
-📫 **Connect:** [LinkedIn](https://www.linkedin.com/in/deepjyotidas1) 
-
----
-
-## 🧠 Tech Stack
-
-**Languages & Frameworks:**  
-Python · Java · JavaScript · Flask · Django · Angular · MySQL · MongoDB  
-Android Studio · Firebase · IoT · Machine Learning · REST APIs  
-
----
-
-## 🏗️ Featured Projects
-
-| Project | Description | Tech Stack |
-|----------|--------------|-------------|
-| **AI Typing Tool** | AI-powered typing assistant with adaptive suggestions | Python, NLP |
-| **Crypto Voice Assistant** | Voice-controlled crypto price assistant | Python, Speech Recognition |
-| **Modern Search Engine** | Custom search engine with ranking and crawler | Flask, Python |
-| **ERP Demo (Planned)** | Self-hosted ERP inspired by Odoo | Python, Angular, PostgreSQL |
-
----
-
-## 🧠 Skills
-
-### 💻 Programming Languages  
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=python,java,javascript,cpp,html,css" />
-</p>
-
----
-
-### ⚙️ Backend Development  
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=flask,django,nodejs,express,mysql,mongodb,sqlite,postman" />
-</p>
-
-- RESTful API Design & Integration  
-- Authentication, CRUD Operations & MVC Architecture  
-- Database Design (MySQL, MongoDB, PostgreSQL)  
-
----
-
-### 🎨 Frontend Development  
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=angular,react,bootstrap,tailwind,html,css" />
-</p>
-
-- Responsive UI/UX Design  
-- Single-Page Applications (SPAs)  
-- Component-Based Architecture  
-
----
-
-### 📱 Mobile & Cross-Platform Development  
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=androidstudio,qt,flutter,firebase" />
-</p>
-
-- Android App Development (Java, Firebase)  
-- **Qt 15 Software Development** (C++/Python GUI Apps)  
-- Cross-Platform Application Development  
-
----
-
-### 🤖 AI, ML & IoT  
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,raspberrypi,arduino" />
-</p>
-
-- Machine Learning & AI Automation  
-- IoT Systems Integration (Sensors, Data Logging)  
-- Smart Automation for Agribusiness  
-
----
-
-### 🧰 Tools & Platforms  
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,linux,docker" />
-</p>
-
-- Version Control & Collaboration  
-- CI/CD and Deployment  
-- Linux System Administration  
-
----
-
-### 🌐 Soft Skills  
-
-💡 Problem Solving  📈 Project Management  🧩 Creativity  
-🤝 Team Collaboration  ⚙️ Adaptability  🚀 Continuous Learning  
-
----
-
-## 📊 GitHub Stats  
+<h1 align="center">🚀 Deepjyoti Das</h1>
+<h3 align="center">Full-Stack Developer | AI/ML | Android | ERP Builder | Educator</h3>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=deepjyoti-dev&show_icons=true&theme=tokyonight" height="160px" />
- 
+  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=2500&color=00F7FF&center=true&vCenter=true&width=800&lines=Building+20%2B+Apps+in+2025;AI+%2B+ERP+%2B+Android+Developer;Founder+%7C+Problem+Solver+%7C+Innovator;Turning+Ideas+into+Real+Products" />
 </p>
 
 ---
 
-## 🌐 Latest Work
+## 👀 Profile Impact  
 
-🧩 **Founder of Zyntrio** – Building the future of smart apps and digital solutions.  
-⚙️ Exploring **AI/ML projects for agribusiness automation**.  
-💻 Working on an **ERP & Android productivity suite**.
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=deepjyoti-dev&label=Profile%20Views&color=blue&style=for-the-badge"/>
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=deepjyoti-dev"/>
+  <img src="https://img.shields.io/github/followers/deepjyoti-dev?style=for-the-badge"/>
+</p>
 
 ---
 
-## 💬 Let’s Collaborate
+## 🧠 About Me  
 
-If you like my projects, ⭐ star them and follow me!  
-I’m open to **collaborations, internships, and freelance work**.
+- 🚀 Founder of **Deepjyoti Das Technologies**  
+- 💻 Full-Stack Developer (Python | Java | Angular)  
+- 🤖 Building **AI Tools, ERP Systems & Android Apps**  
+- 📱 Mission: Build **20+ real-world apps (2025)**  
+- 🎓 Educator (Maths | Physics | Computer Science)  
+
+🎯 **Actively Looking For:**  
+`Software Developer Roles | Backend | Full Stack | Internships`
+
+---
+
+## ⚡ Tech Arsenal  
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,java,javascript,cpp,c,html,css,sql,flask,django,nodejs,angular,react,mysql,mongodb,postgresql,androidstudio,firebase,tensorflow,pytorch,docker,git,linux" />
+</p>
+
+---
+
+## 🧠 Competitive Coding  
+
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/YOUR_USERNAME?theme=dark&font=Baloo&ext=heatmap"/>
+</p>
+
+---
+
+## 🏆 Flagship Projects  
+
+### 🔥 AI Typing Assistant  
+✔ Smart predictions using NLP  
+✔ Improves typing speed & accuracy  
+
+### 🎤 Crypto Voice Assistant  
+✔ Voice-based crypto tracking  
+✔ Real-time API integration  
+
+### 🔎 Custom Search Engine  
+✔ Web crawler + ranking algorithm  
+✔ Built using Flask  
+
+### 🏢 ERP System (Odoo Inspired)  
+✔ Inventory, HR, Billing modules  
+✔ Scalable SaaS vision  
+
+---
+
+## 📊 GitHub Analytics  
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=deepjyoti-dev&show_icons=true&theme=tokyonight"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=deepjyoti-dev&theme=tokyonight"/>
+</p>
+
+---
+
+## 📈 Contribution Graph  
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=deepjyoti-dev&theme=tokyo-night"/>
+</p>
+
+---
+
+## 🌐 Connect  
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/deepjyotidas1">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"/>
+  </a>
+</p>
+
+---
+
+## 🔥 Personal Brand Statement  
+
+> "I build scalable software, AI systems, and real-world tech products that solve meaningful problems."
 
 ---
