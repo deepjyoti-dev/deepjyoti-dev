@@ -41,7 +41,7 @@
 ## 🧠 Competitive Coding  
 
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/YOUR_USERNAME?theme=dark&font=Baloo&ext=heatmap"/>
+  <img src="https://leetcard.jacoblin.cool/deepjyoti?theme=dark&font=Baloo&ext=heatmap"/>
 </p>
 
 ---
