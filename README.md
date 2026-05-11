@@ -26,7 +26,7 @@
 - 🎓 Educator (Maths | Physics | Computer Science)  
 
 🎯 **Actively Looking For:**  
-`Software Developer Roles | Backend | Full Stack | Internships`
+`Software Developer Roles | Backend | Full Stack 
 
 ---
 
@@ -38,12 +38,13 @@
 
 ---
 
-## 🧠 Competitive Coding  
+# 🧠 Competitive Coding
 
-<p align="center">
-  <img src="https://leetcard.jacoblin.cool/deepjyoti?theme=dark&font=Baloo&ext=heatmap"/>
-</p>
+<div align="center">
 
+<img src="https://leetcard.jacoblin.cool/deepjyoti?theme=dark&font=Baloo&ext=heatmap" alt="LeetCode Stats"/>
+
+</div>
 ---
 
 ## 🏆 Flagship Projects  
