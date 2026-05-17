@@ -38,13 +38,7 @@
 
 ---
 
-# 🧠 Competitive Coding
 
-<div align="center">
-
-<img src="https://leetcard.jacoblin.cool/deepjyoti?theme=dark&font=Baloo&ext=heatmap" alt="LeetCode Stats"/>
-
-</div>
 ---
 
 ## 🏆 Flagship Projects  
