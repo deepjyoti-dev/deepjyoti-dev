@@ -2,7 +2,7 @@
 <h3 align="center">Full-Stack Developer | AI/ML | Android | ERP Builder | Educator</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=2500&color=00F7FF&center=true&vCenter=true&width=800&lines=Building+20%2B+Apps+in+2025;AI+%2B+ERP+%2B+Android+Developer;Founder+%7C+Problem+Solver+%7C+Innovator;Turning+Ideas+into+Real+Products" />
+ <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=2500&color=00F7FF&center=true&vCenter=true&width=1000&lines=Built+500%2B+Apps+by+2026;Developed+67%2B+Windows+Software+Using+Qt;AI+%2B+ERP+%2B+Android+Developer;Data+Science+%26+Software+Engineering+Experience;Completed+100%2B+Technical+Projects;Founder+%7C+Problem+Solver+%7C+Innovator;Turning+Ideas+into+Real+Products" />
 </p>
 
 ---
