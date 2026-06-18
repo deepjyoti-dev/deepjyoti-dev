@@ -13,7 +13,6 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=deepjyoti-dev&label=Profile%20Views&color=blue&style=for-the-badge"/>
   <img src="https://visitor-badge.laobi.icu/badge?page_id=deepjyoti-dev"/>
-  <img src="https://img.shields.io/github/followers/deepjyoti-dev?label=Followers&style=for-the-badge"/>
 </p>
 
 ---
